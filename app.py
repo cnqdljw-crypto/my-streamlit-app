@@ -3,7 +3,7 @@ import requests
 import statistics
 import datetime
 
-API_KEY = "AIzaSyDB0OgpIbtgc53oi06dB3hie-VgsYxmnWI"
+API_KEY = "AIzaSyDu-I4a5yIUi6AdGwiGT5oCvMkQxtDPvXc"
 
 st.title("YouTube KOL 分析工具")
 
